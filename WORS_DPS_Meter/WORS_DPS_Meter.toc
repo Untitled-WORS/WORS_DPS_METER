@@ -4,5 +4,6 @@
 ## Author: YourName
 ## Version: 1.0
 ## SavedVariables: WORS_DPS_MeterSettings
+## DefaultState: disabled
 
 WORS_DPS_Meter.lua
